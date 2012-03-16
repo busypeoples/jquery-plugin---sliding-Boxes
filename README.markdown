@@ -52,11 +52,13 @@ Very simple:
 						<!-- end videowrapper -->
  </html>
  
-  add the this at the end of your html code. But add it before the ending body tag!
-  
-  example:
-   <script type="text/javascript">
- 			jQuery(document).ready(function() {
-					jQuery("#videoSection").slidingBoxes({'type' : 'videos', 'color' : '#fff', 'bgColor' : '#444' ,'textInput': '', 'content_height' : '500', 'content_width' : '600', 'showbox_bg' : '#666' });
-      });
-   </script>		
+add the this at the end of your html code. But add it before the ending body tag!
+
+example:
+<html>
+ <script type="text/javascript">
+    jQuery(document).ready(function() {
+        jQuery("#videoSection").slidingBoxes({'type' : 'videos', 'color' : '#fff', 'bgColor' : '#444' ,'textInput': '', 'content_height' : '500', 'content_width' : '600', 'showbox_bg' : '#666' });
+    });
+ </script>
+</html> 
