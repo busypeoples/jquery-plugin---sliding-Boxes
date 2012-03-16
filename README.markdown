@@ -11,6 +11,7 @@ So how do you get started?
 Very simple:
 
 <html>
+
   				  <!-- start videowrapper -->
 						<div class="videoWrapper">
             
@@ -50,6 +51,7 @@ Very simple:
 						</div>
 						<!-- end videowrapper -->
  </html>
+ 
   add the this at the end of your html code. But add it before the ending body tag!
   
   example:
