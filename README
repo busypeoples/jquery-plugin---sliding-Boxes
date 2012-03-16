@@ -1,5 +1,6 @@
 
 Sliding Boxes
+================================
 v.1.0.0 
 
 For more info contact a_sharif@fastmail.fm
@@ -9,6 +10,7 @@ Similair to the gallery rotation approaches out there.
 So how do you get started?
 Very simple:
 
+<pre>
   				  <!-- start videowrapper -->
 						<div class="videoWrapper">
             
@@ -47,7 +49,7 @@ Very simple:
               
 						</div>
 						<!-- end videowrapper -->
- 
+ </pre>
   add the this at the end of your html code. But add it before the </body> tag!
   example:
    <script type="text/javascript">
