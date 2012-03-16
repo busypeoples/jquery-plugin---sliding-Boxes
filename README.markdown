@@ -10,7 +10,7 @@ Similair to the gallery rotation approaches out there.
 So how do you get started?
 Very simple:
 
-<pre>
+<html>
   				  <!-- start videowrapper -->
 						<div class="videoWrapper">
             
@@ -49,8 +49,9 @@ Very simple:
               
 						</div>
 						<!-- end videowrapper -->
- </pre>
-  add the this at the end of your html code. But add it before the </body> tag!
+ </html>
+  add the this at the end of your html code. But add it before the ending body tag!
+  
   example:
    <script type="text/javascript">
  			jQuery(document).ready(function() {
