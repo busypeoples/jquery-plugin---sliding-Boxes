@@ -1,4 +1,3 @@
-
 Sliding Boxes
 ================================
 v.1.0.0 
@@ -57,6 +56,9 @@ add the this at the end of your html code. But add it before the ending body tag
 example:
 <code>
     jQuery(document).ready(function() {
-        jQuery("#videoSection").slidingBoxes({'type' : 'videos', 'color' : '#fff', 'bgColor' : '#444' ,'textInput': '', 'content_height' : '500', 'content_width' : '600', 'showbox_bg' : '#666' });
-    });
+        jQuery("#videoSection")
+            .slidingBoxes({'type' : 'videos', 'color' : '#fff', 'bgColor' : '#444' ,
+                           'textInput': '', 'content_height' : '500', 'content_width' : '600', 
+                           'showbox_bg' : '#666' });
+                          });
 </code> 
