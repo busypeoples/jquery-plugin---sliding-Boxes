@@ -59,6 +59,7 @@ example:
         jQuery("#videoSection")
             .slidingBoxes({'type' : 'videos', 'color' : '#fff', 'bgColor' : '#444' ,
                            'textInput': '', 'content_height' : '500', 'content_width' : '600', 
-                           'showbox_bg' : '#666' });
-                          });
+                           'showbox_bg' : '#666' 
+                         });
+    });
 ``` 
